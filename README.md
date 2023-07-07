@@ -50,10 +50,15 @@ There you go, Your Domain is registered in netlify!
 <img align='center' src='img/deployment-17.png' width="900" ><br>
 
 <br>
-since you are already down here, you can check the website by click [Here](https://hlmyrsyd3.netlify.app/) or check out my other repositories by clicking below<br>
+since you are already down here, you can check the website by click
+
+[Here](https://hlmyrsyd3.netlify.app/) 
+or check out my other repositories by clicking below<br>
 <br>
+
 [First Week](https://hlmyrsyd.netlify.app/)<br>
 [Second Week](https://hlmyrsyd1.netlify.app/)<br>
 [Third Week](https://hlmyrsyd2.netlify.app/)<br>
+
 <br>
 

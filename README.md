@@ -3,11 +3,11 @@
 <img align='center' src='https://github.com/hlmyrsyd/thereadmestuff/blob/main/100%25.svg' width="900" ><br>
 ## Hello I'm Hilmy Rasyad
 <br>
-This is my forth repository and it's also my forth project. I have built a simple website that contains :
-* HTML
-* CSS
-* JS
-* img
+This is my forth repository and it's also my forth project. I have built a simple website that contains :<br>
+* HTML<br>
+* CSS<br>
+* JS<br>
+* img<br>
 <br>
 ## Deployment Setup 
 <b>First.</b>

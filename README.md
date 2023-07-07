@@ -52,7 +52,7 @@ There you go, Your Domain is registered in netlify!
 <br>
 since you are already down here, you can check the website by click
 
-[Here](https://hlmyrsyd3.netlify.app/) 
+[Here](https://hlmyrsyd3.netlify.app/) or https://www.hilmyrasyad.site
 or check out my other repositories by clicking below<br>
 <br>
 
